@@ -1,1 +1,1 @@
-
+<h2> this cipher is still used just not often because its to impractical because for the OTP you have to have both people have the key so you have to share the key securly and if you have ability to do this just share the plaintext and what made it usefull is it has perfect security only breakable due to lucky guess or user error.</h2>
