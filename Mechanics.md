@@ -4,4 +4,6 @@
 
 <img src="https://i.ytimg.com/vi/vEbaF1jmbcM/maxresdefault.jpg">
 
+[Mathematical Analysis](https://github.com/ben-har/one-time-pad/blob/one-time-pad/Mathematical_Analysis.md)
+
 
