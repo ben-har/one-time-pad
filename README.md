@@ -22,7 +22,7 @@ Substitution Cipher
 Multiplicative Cipher
 Affine Cipher
 Vigenere Cipher
-One-Time Pad
+[one-time pad](https://github.com/ben-har/one-time-pad/blob/one-time-pad/historical.md)
 Polybius Square
 Four Square Cipher
 Rail fence cipher
