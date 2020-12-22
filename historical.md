@@ -1,8 +1,4 @@
-<style>
-body {
-background-color:orange;  
-  }
-</style>
+
 
 <h2>frank miller invented the first virsion of the one time pad in 1882</h2>
 <img src="http://ciphermachines.com/pictures/otp/miller.jpg">
