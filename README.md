@@ -1,4 +1,4 @@
-Historical context
+<h2>Historical context
 When was this cipher used? Who used it?
 
 Mechanics
@@ -34,4 +34,4 @@ Pigpen Cipher
 Playfair Cipher
 M-94 Cipher
 Nihilist Cipher
-Hill Cipher
+Hill Cipher</h2>
